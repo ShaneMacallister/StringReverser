@@ -8,7 +8,7 @@ namespace StringReverser
         {
             /* 
              * Takes user input, reverses it and prints the result to the console.
-             */
+             */ 
             string line;
             Console.WriteLine("Enter xx to exit or any key to continue.");
             while ((line = Console.ReadLine()) != "xx")
